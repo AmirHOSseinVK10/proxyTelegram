@@ -1,4 +1,4 @@
-# proxyTelegram
+# ProxyTelegram
 پروکسی یاب تلگرام تحت وب 
 https://amirhosseinvk10.github.io/proxyTelegram/
 
